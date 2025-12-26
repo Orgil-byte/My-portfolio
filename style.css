@@ -77,10 +77,10 @@
   transition: left 0.5s ease-out;
 }
 .rotate45 {
-  transform: rotate(45deg) translateY(7.5px);
+  transform: rotate(45deg) translateY(7px);
 }
 .rotate-45 {
-  transform: rotate(-45deg) translateY(-7.5px);
+  transform: rotate(-45deg) translateY(-7px);
 }
 .stick2 {
   transition: 0.2s ease-in-out;
